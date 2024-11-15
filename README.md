@@ -2,7 +2,7 @@ This README serves as an overview of my projects
 # NOTE FOR EMPLOYERS
 If a listed project does not have a public repository, it is usually a school project. Projects from school are private for the sake of academic integrity. If you are an employer and would like to view any specific repositories and/or design docs/write-ups, please make a request using the contact info on my resume.
 ## PROJECTS
-### Data Structures (JAVA)
+### Data Structures (Java)
 1. Tablut simulator and AI - similar to a chess AI which utilizes heuristics, mini-max and culling to search for optimal decisions. If you are interested in the rules (https://www.mastersofgames.com/rules/tablut-rules.htm)
 2. Gitlet - an implementation of Git based off of git internals
 3. Enigma Machine simulator - implementation of rotor based encryption machine utilized in WW2
