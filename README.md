@@ -27,4 +27,7 @@ PintOS - Worked in a team to implement PintOS functionality. Requires Vagrant to
 3. Reinforcement Learning
 4. Bayes Nets and Hidden Markov Models (HMMs)
 5. Machine Learning: Classification
-
+### Security (C, SQL, GoLang) - (mainly write-ups + design docs)
+1. Buffer Overflow exploits (C, python scripts)
+2. Secure Message Exchange System (GoLang) - utlizes cryptographic library and concepts (hashing, encryption, certificates, centural authority, signatures, asymmetric and symmetric key exchanges) to implement a secure message system. Includes design doc
+3. SQL Injection CTF - SQL queries crafted to obtain unintended information in order to progress a CTF-style website
