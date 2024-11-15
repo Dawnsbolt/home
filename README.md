@@ -28,11 +28,11 @@ PintOS - Worked in a team to implement PintOS functionality. Requires Vagrant to
 4. Bayes Nets and Hidden Markov Models (HMMs)
 5. Machine Learning: Classification
 ### Security (C, SQL, GoLang) - (mainly write-ups + design docs)
-1. Buffer Overflow exploits (C, python scripts)
-2. Secure Message Exchange System (GoLang) - utlizes cryptographic library and concepts (hashing, encryption, certificates, centural authority, signatures, asymmetric and symmetric key exchanges) to implement a secure message system. Includes design doc
+1. Buffer Overflow exploits and shellcode injection (C, python scripts)
+2. Secure Message Exchange System (GoLang) - utlizes a cryptographic library and security concepts (hashing, encryption, certificates, centural authority, signatures, asymmetric and symmetric key exchanges) to implement a secure message system. Includes design doc
 3. SQL Injection CTF - SQL queries crafted to obtain unintended information in order to progress a CTF-style website
 ### FFLOGS-related scripts (Python script)
-Scripts which parse through CSV files of Final Fantasy XIV events and outputs a text file for use in spreadsheets.
+Scripts which parse through CSV files of Final Fantasy XIV game events and outputs a text file for use in spreadsheets.
 ### CS70 - Discrete Mathematics and Probability
 Demonstrations/Notes of mathematical concepts from the UCB's CS70 course (https://www.eecs70.org/).
 example topics include Euclid's Algorithm, RSA, Polynomials Interpolation, Secret Sharing, and Error Correcting codes
